@@ -1,3 +1,5 @@
 pymupdf
 langchain-core
 langchain-openai
+python-dotenv
+ipykernel
