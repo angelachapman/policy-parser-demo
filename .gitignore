@@ -58,3 +58,7 @@ venv.bak/
 
 # Local mac files
 .DS_Store
+
+# Large examples that should be downloaded 
+examples/liberty-mutual-full.pdf
+examples/utica-commercial-package-policy.pdf
