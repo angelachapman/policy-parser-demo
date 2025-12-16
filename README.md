@@ -3,8 +3,8 @@ Code to demonstrate how a mix of regex processing and AI can be used to extract 
 MIT license.
 
 Prerequisites:
-Install Tesseract for OCR `brew install tesseract`
-Create a local .env file with a valid OpenAI API key
+- Install Tesseract for OCR `brew install tesseract`
+- Create a local .env file with a valid OpenAI API key
 
 Instructions:
 1. Create a virtual environment 
